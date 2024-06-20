@@ -48,7 +48,7 @@ body:
       label: Environment
       render: shell
       description: |
-        Run `yarn dlx -q envinfo --preset jest` and paste the result into the form
+        Provide information about the environment: device, OS, browser, version
       placeholder: |
         - Device: [e.g. Macbook, iPhone]
         - OS: [e.g. macOS, iOS]
